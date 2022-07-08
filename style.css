@@ -1,0 +1,35 @@
+body{
+background-color: black;
+margin: 0px;
+
+}
+.box1{
+    margin: 0 auto;
+    margin-top:10vmin;
+    background-color: blue;
+}
+h3{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    pointer-events:none;
+}
+
+.menuInit {
+    width:70%;
+    min-width: 100px;
+    position: relative;
+    background-color: grey;
+    margin-left: 15%;
+}
+
+.h4 {
+    color: rgb(24, 25, 25);
+    font-size:15px;
+    display: none;
+}
+.formats div,h4,input{
+    align-items: baseline;
+    position: relative;
+    inline-size: auto;
+    display: inline;
+}
